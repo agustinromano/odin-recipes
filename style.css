@@ -1,0 +1,9 @@
+h1 {
+  color: red;
+}
+
+ul {
+  background-color: rgba(0, 0, 0, 0.324);
+  width: 300px;
+  height: auto;
+}
